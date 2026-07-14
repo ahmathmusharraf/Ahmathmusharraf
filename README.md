@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!--
 **ahmathmusharraf/Ahmathmusharraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -151,4 +149,3 @@ t"/>
 If you like my work, consider giving a to my repositories and 
 connecting with me.
 </p>
--->

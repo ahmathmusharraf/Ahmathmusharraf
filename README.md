@@ -1,15 +1,11 @@
-
 <h1 align="center">Hi , I'm Ahmath Musharraf</h1>
 <h3 align="center">
  Full Stack Web Developer | Passionate Problem Solver | Building 
 Modern Web Experiences
 </h3>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?
-font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=
-true&width=800&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+
-%7C+Node.js;Always+Learning+New+Technologies;Let's+Build+Something+A
-wesome!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=
+true&width=800&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+%7C+Node.js;Always+Learning+New+Technologies;Let's+Build+Something+Awesome!" />
 </p>
 ---
 ## About Me
@@ -27,24 +23,19 @@ useful applications.**
 ---
 ## Connect With Me <p align="left">
 <a href="https://www.linkedin.com/in/ahmathmusharraf/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-
-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="https://ahmathmusharraf.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-
-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 <a href="mailto:ahmathmusharraf@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-
-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
 ---
 # Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?
-i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,
-tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite"/>
 </p>
 ---
 # Featured Projects
@@ -72,31 +63,22 @@ authentication.
  Repository: [GitHub Repository]
 ---
 # GitHub Stats <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?
-username=[GitHubUsername]&show_icons=true&theme=tokyonight&hide_bord
-er=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/
-top-langs/?
-username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_borde
-r=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=[GitHubUsername]&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 ---
 # GitHub Streak
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?
-user=[GitHubUsername]&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=[GitHubUsername]&theme=tokyonight&hide_border=true"/>
 </p>
 ---
 # Contribution Graph
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?
-username=[GitHubUsername]&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=[GitHubUsername]&theme=tokyo-night"/>
 </p>
 ---
 # GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?
-username=[GitHubUsername]&theme=tokyonight&no-frame=true&margin-
-w=10"/>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=[GitHubUsername]&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
 ---
 # 🛠 Currently Working On
@@ -124,8 +106,7 @@ w=10"/>
 Cory House
 ---
 <p align="center">
-<img src="https://komarev.com/ghpvc/?
-username=[GitHubUsername]&label=Profile+Views&color=0e75b6&style=fla
+<img src="https://komarev.com/ghpvc/?username=[GitHubUsername]&label=Profile+Views&color=0e75b6&style=fla
 t"/>
 </p>
 ---

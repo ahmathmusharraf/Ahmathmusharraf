@@ -1,17 +1,6 @@
 ## Hi there 👋
 **ahmathmusharraf/Ahmathmusharraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 <h1 align="center">Hi , I'm Ahmath Musharraf</h1>
 <h3 align="center">
  Full Stack Web Developer | Passionate Problem Solver | Building 
@@ -39,15 +28,15 @@ practices.
 useful applications.**
 ---
 ## Connect With Me <p align="left">
-<a href="[LinkedIn URL]">
+<a href="https://www.linkedin.com/in/ahmathmusharraf/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-
 the-badge&logo=linkedin"/>
 </a>
-<a href="[Portfolio URL]">
+<a href="https://ahmathmusharraf.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-
 the-badge&logo=vercel"/>
 </a>
-<a href="mailto:[Email Address]">
+<a href="mailto:ahmathmusharraf@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-
 badge&logo=gmail"/>
 </a>
@@ -126,7 +115,7 @@ w=10"/>
 - System Design
 - Backend Architecture
 ---
-# Goals for 2025
+# Goals for 2026
 - Contribute to Open Source
 - Build SaaS Applications
 - Master Full Stack Development

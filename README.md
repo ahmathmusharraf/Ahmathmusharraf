@@ -1,7 +1,6 @@
 <h1 align="center">Hi , I'm Ahmath Musharraf</h1>
 <h3 align="center">
- Full Stack Web Developer | Passionate Problem Solver | Building 
-Modern Web Experiences
+ Full Stack Web Developer | Passionate Problem Solver | Building Modern Web Experiences
 </h3>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=
@@ -9,17 +8,12 @@ true&width=800&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+%7C+Node.js;A
 </p>
 ---
 ## About Me
-- I'm a **Full Stack Web Developer** passionate about creating 
-responsive and user-friendly web applications.
+- I'm a **Full Stack Web Developer** passionate about creating responsive and user-friendly web applications.
 - I enjoy turning ideas into real-world projects.
-- Currently learning **Next.js, TypeScript, and Cloud 
-Technologies**.
-- Open to collaborating on exciting web development and open-
-source projects.
-- Always exploring modern technologies and best development 
-practices.
-- Fun Fact: **I love solving coding challenges and building 
-useful applications.**
+- Currently learning **Next.js, TypeScript, and Cloud Technologies**.
+- Open to collaborating on exciting web development and open-source projects.
+- Always exploring modern technologies and best development practices.
+- Fun Fact: **I love solving coding challenges and building useful applications.**
 ---
 ## Connect With Me <p align="left">
 <a href="https://www.linkedin.com/in/ahmathmusharraf/">
@@ -35,7 +29,7 @@ useful applications.**
 ---
 # Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite"/>
+<img src="https://skillicons.dev/iconsi=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite"/>
 </p>
 ---
 # Featured Projects
